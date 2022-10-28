@@ -67,8 +67,8 @@ Uninstall WPR {
 
 ```
 ```
-5 Stars = Tutorial video
-10 Stars = More features
+Tutorial video : Soon
+5 Stars = More features
 ```
 -----
 

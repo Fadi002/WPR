@@ -2,7 +2,7 @@
 
 ### <p align="center">Windows Password Removal</p>
 <p align="center">
-<strong>Windows Password Removal can remove password or change password for windows only
+<strong>Windows Password Removal can remove passwords or change passwords for windows only, I made it because why not
 </strong>
 </p>
 <br>
@@ -67,8 +67,8 @@ Uninstall WPR {
 
 ```
 ```
-10 Stars = Tutorial video
-20 Stars = More features
+5 Stars = Tutorial video
+10 Stars = More features
 ```
 -----
 

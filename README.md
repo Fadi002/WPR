@@ -29,7 +29,7 @@ Requirements {
     size : 2.89GB
     Python (recommended 3.9): https://python.org
     Rufus : http://rufus.ie/
-    a brain
+    A Brain OFC
 }
 
 Setup python and compile (you can skip this if you download the exe from releases) {

@@ -48,10 +48,10 @@ Setup {
     Step 1: Burn Hiren’s BootCD PE.iso image using Rufus.
     Step 2: Copy WPR.exe to the USB.
     Step 3: Boot from the USB.
-    Step 4: Go to your system partition, then go to windows\system32.
-    Step 5: Rename sethc.exe to sethc.exe.old.
-    Step 6: Rename WPR.exe to sethc.exe.
-    Step 7: Copy it to windows\system32.
+    Step 4: Go to your system partition, then go to windows\system32
+    Step 5: Rename sethc.exe to sethc.exe.old
+    Step 6: Rename WPR.exe to sethc.exe
+    Step 7: Copy it to windows\system32
     Step 8: Reboot your system.
     Step 9: Press the shift button on your keyboard 5 times.
     Step 10: Now you can use the tool.

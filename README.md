@@ -36,8 +36,8 @@ Setup python and compile (you can skip this if you download the exe from release
     step 1: Open the installer as administrator. Then click add to path button and install it.
     
     For compile {
-        Step 1: just open cmd as administrator, then type "pip install pyinstaller". After that, open another cmd on the repo directory and type "pyinstaller --onefile WPR.py".
-        Step 2: You should see a folder named "dist".
+        Step 1: just open cmd as administrator, then type "pip install pyinstaller". After that, open another cmd on the repo directory and type "pyinstaller --onefile WPR.py"
+        Step 2: You should see a folder named "dist"
         Step 3: You will see WPR.exe inside it.
     }
 
@@ -59,9 +59,9 @@ Setup {
 
 Uninstall WPR {
     Step 1 : Boot from the usb.
-    Step 2 : Go to windows\system32.
-    Step 3 : Remove sethc.exe.
-    Step 4 : Rename sethc.exe.old to sethc.exe.
+    Step 2 : Go to windows\system32
+    Step 3 : Remove sethc.exe
+    Step 4 : Rename sethc.exe.old to sethc.exe
     Step 5 : Reboot to your system.
 }
 

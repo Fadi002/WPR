@@ -1,3 +1,6 @@
+this project is dead
+new project: https://github.com/Fadi002/unshackle
+
 -----
 
 ### <p align="center">Windows Password Removal</p>

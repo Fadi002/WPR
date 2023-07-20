@@ -1,10 +1,10 @@
 -----
-this project is dead
-new project: https://github.com/Fadi002/unshackle
-
 
 ### <p align="center">Windows Password Removal</p>
 <p align="center">
+this project is dead
+new project: https://github.com/Fadi002/unshackle
+
 <strong>Windows Password Removal can remove passwords or change passwords for windows only, I made it because why not
 </strong>
 </p>
